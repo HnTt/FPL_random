@@ -1,0 +1,185 @@
+{
+  "picks": [
+    {
+      "element": 376,
+      "position": 1,
+      "selling_price": 51,
+      "multiplier": 1,
+      "purchase_price": 50,
+      "is_captain": false,
+      "is_vice_captain": false
+    },
+    {
+      "element": 357,
+      "position": 2,
+      "selling_price": 52,
+      "multiplier": 1,
+      "purchase_price": 50,
+      "is_captain": false,
+      "is_vice_captain": false
+    },
+    {
+      "element": 146,
+      "position": 3,
+      "selling_price": 60,
+      "multiplier": 1,
+      "purchase_price": 60,
+      "is_captain": false,
+      "is_vice_captain": true
+    },
+    {
+      "element": 306,
+      "position": 4,
+      "selling_price": 71,
+      "multiplier": 1,
+      "purchase_price": 70,
+      "is_captain": false,
+      "is_vice_captain": false
+    },
+    {
+      "element": 7,
+      "position": 5,
+      "selling_price": 65,
+      "multiplier": 1,
+      "purchase_price": 65,
+      "is_captain": false,
+      "is_vice_captain": false
+    },
+    {
+      "element": 304,
+      "position": 6,
+      "selling_price": 100,
+      "multiplier": 1,
+      "purchase_price": 100,
+      "is_captain": false,
+      "is_vice_captain": false
+    },
+    {
+      "element": 346,
+      "position": 7,
+      "selling_price": 45,
+      "multiplier": 1,
+      "purchase_price": 45,
+      "is_captain": false,
+      "is_vice_captain": false
+    },
+    {
+      "element": 233,
+      "position": 8,
+      "selling_price": 61,
+      "multiplier": 1,
+      "purchase_price": 61,
+      "is_captain": false,
+      "is_vice_captain": false
+    },
+    {
+      "element": 301,
+      "position": 9,
+      "selling_price": 121,
+      "multiplier": 1,
+      "purchase_price": 120,
+      "is_captain": false,
+      "is_vice_captain": false
+    },
+    {
+      "element": 210,
+      "position": 10,
+      "selling_price": 67,
+      "multiplier": 1,
+      "purchase_price": 65,
+      "is_captain": false,
+      "is_vice_captain": false
+    },
+    {
+      "element": 318,
+      "position": 11,
+      "selling_price": 118,
+      "multiplier": 2,
+      "purchase_price": 116,
+      "is_captain": true,
+      "is_vice_captain": false
+    },
+    {
+      "element": 518,
+      "position": 12,
+      "selling_price": 39,
+      "multiplier": 0,
+      "purchase_price": 40,
+      "is_captain": false,
+      "is_vice_captain": false
+    },
+    {
+      "element": 109,
+      "position": 13,
+      "selling_price": 46,
+      "multiplier": 0,
+      "purchase_price": 46,
+      "is_captain": false,
+      "is_vice_captain": false
+    },
+    {
+      "element": 342,
+      "position": 14,
+      "selling_price": 45,
+      "multiplier": 0,
+      "purchase_price": 45,
+      "is_captain": false,
+      "is_vice_captain": false
+    },
+    {
+      "element": 380,
+      "position": 15,
+      "selling_price": 43,
+      "multiplier": 0,
+      "purchase_price": 45,
+      "is_captain": false,
+      "is_vice_captain": false
+    }
+  ],
+  "chips": [
+    {
+      "status_for_entry": "available",
+      "played_by_entry": [],
+      "name": "bboost",
+      "number": 1,
+      "start_event": 1,
+      "stop_event": 38,
+      "chip_type": "team"
+    },
+    {
+      "status_for_entry": "available",
+      "played_by_entry": [],
+      "name": "3xc",
+      "number": 1,
+      "start_event": 1,
+      "stop_event": 38,
+      "chip_type": "team"
+    },
+    {
+      "status_for_entry": "available",
+      "played_by_entry": [],
+      "name": "wildcard",
+      "number": 1,
+      "start_event": 2,
+      "stop_event": 16,
+      "chip_type": "transfer"
+    },
+    {
+      "status_for_entry": "available",
+      "played_by_entry": [],
+      "name": "freehit",
+      "number": 1,
+      "start_event": 2,
+      "stop_event": 38,
+      "chip_type": "transfer"
+    }
+  ],
+  "transfers": {
+    "cost": 4,
+    "status": "cost",
+    "limit": 1,
+    "made": 0,
+    "bank": 21,
+    "value": 998
+  }
+}
